@@ -1,0 +1,26 @@
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home-image {
+    width: 80%;
+    height: auto;
+    margin: 20px 0;
+  }
+  
+  .learn-more {
+    background-color: #006400;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  @media (max-width: 768px) {
+    .home-image {
+      width: 100%;
+    }
+  }
+  
